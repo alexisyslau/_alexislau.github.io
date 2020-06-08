@@ -11,28 +11,23 @@ redirect_from:
 
 Education
 ======
-* MPhys Physics with Astrophysics, University of Exeter, 2020
-* Ph.D in astrophysics, Laboratoire d'Astrophysique de Marseille (current)
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Research Experience
+Work experience
 ======
-* Summer 2020: Research Assistant
-  * University of Exeter 
-  * Supervisor: Professor Sasha Hinkley
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
-* 2019 - 2020: Direct Imaging of Extrasolar Planets and Circumstellar Disks
-  * University of Exeter 
-  * Supervisor: Professor Sasha Hinkley
-
-* Summer 2019: Student Researcher
-  * University of Exeter 
-  * Supervisor: Professor Sean Matt, Dr Victor See
-
-* 2018 - 2019: Research Assistant
-  * University of Exeter 
-  * Supervisor: Professor Sasha Hinkley
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
   
-<!---Skills
+Skills
 ======
 * Skill 1
 * Skill 2
@@ -40,14 +35,12 @@ Research Experience
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
---->
 
-<!---Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
   
 Talks
 ======
@@ -60,10 +53,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
---->
-
-<!---
+  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams --->
+* Currently signed in to 43 different slack teams
