@@ -229,7 +229,7 @@ defaults:
       comments: true
   # _photos
   - scope:
-      path: ""
+      path: "_photos"
       type: photos
     values:
       layout: single
