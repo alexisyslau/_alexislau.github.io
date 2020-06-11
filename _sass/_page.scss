@@ -45,7 +45,7 @@
 
 .page__lead {
   font-family: $global-font-family;
-  font-size: $type-size-5;
+  font-size: $type-size-4;
 }
 
 .page__content {
@@ -73,7 +73,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
@@ -174,7 +174,7 @@
   padding: 2px 5px;
   color: #fff;
   font-family: $caption-font-family;
-  font-size: $type-size-6;
+  font-size: $type-size-7;
   background: #000;
   text-align: right;
   z-index: 5;
