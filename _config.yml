@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Alexis Lau"
-  avatar           : #"profile_pic.png"
+  avatar           : 
   bio              : "MPhys Physics with Astrophysics student who specialise in Direct Imaging of Exoplanets"
   location         : "Location"
   employer         :
