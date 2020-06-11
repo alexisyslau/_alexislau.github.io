@@ -15,5 +15,5 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Direct Imaging of Exoplanets
-I have been working on a large direct imaging survey with [Professor Sasha Hinkley](https://emps.exeter.ac.uk/physics-astronomy/staff/sh573), observed at the W. M. Keck Observatory. Another website has been built to showcase the data of the survey. 
+### Direct Imaging of Exoplanets
+I have been working on a large direct imaging survey with [Professor Sasha Hinkley](https://emps.exeter.ac.uk/physics-astronomy/staff/sh573), obtained by the W. M. Keck Observatory. During my master, I continued worked on this dataset and investigate the possibilty on applying Reference Differential Imaging (RDI) to the survey. HR 8799 was chosen as a case study. Another website has been built to showcase the data of the survey (coming soon). 
