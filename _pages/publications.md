@@ -14,3 +14,6 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+## Direct Imaging of Exoplanets
+I have been working on a large direct imaging survey with [Professor Sasha Hinkley](https://emps.exeter.ac.uk/physics-astronomy/staff/sh573), observed at the W. M. Keck Observatory. Another website has been built to showcase the data of the survey. 
