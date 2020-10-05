@@ -27,9 +27,8 @@ The aims of the project are:
 * Better detection method for searching candidates 
 
 In this project, we managed to find some interesting candidates which require more observations for validation. Other than searching for exoplanets, we managed to improve the sensitivity at the inner working angle by implementing reference image library, using HR-8799 as a case study. In terms of detection limit, this method shows a gain in contrast within 1" region. Therefore, we would like to extend our work to the whole survey. 
-<p>
-    <img src='/images/HR_8799.png' alt>
-    <em>Left: Raw image before processing. Middle: PCA residual image of HR 8799. Right: RDI-PCA residual image of HR 8799. We can see that the speckle-pattern is prominent in the raw image. PCA partly removes the noise but RDI-PCA removes most of it.</em>
-</p>
+
+<img src='/images/HR_8799.png' alt>
+<em>Left: Raw image before processing. Middle: PCA residual image of HR 8799. Right: RDI-PCA residual image of HR 8799. We can see that the speckle-pattern is prominent in the raw image. PCA partly removes the noise but RDI-PCA removes most of it.</em>
 
 If you would like to know more about my master project, feel free to drop me a message!
