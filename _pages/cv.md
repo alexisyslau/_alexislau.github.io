@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://alexisyslau.github.io/files/alexisyslau_cv.pdf)
+
+<!---  
+
+
 Education
 ======
 <p style="font-size:90%;">
@@ -23,11 +28,14 @@ Education
 
 Research experience
 ======
-* Summer 2020: Research Assistant
-  * University of Exeter 
-  * Supervisor: Professor Sasha Hinkley
+<p style="font-size:90%;">
 
-<!---  
+<ul>
+  <li>Direct Imaging of Exoplanet and Circumstellar Disks</li>
+  <li>Solar Wind ...</li>
+
+</ul>
+</p>
 Skills
 ======
 * Skill 1
