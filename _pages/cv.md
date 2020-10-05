@@ -11,8 +11,13 @@ redirect_from:
 
 Education
 ======
-<p style="font-size:80%;">This is a paragraph.</p>
+<p style="font-size:100%;">
+* PhD, Laboratoire d'Astrophysique de Marseille (LAM), 
 * MPhys Physics with Astrophysics, University of Exeter, 2020
+
+
+</p>
+
 
 Research experience
 ======
