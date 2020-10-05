@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-<p style="font-size:100%;">
+<p style="font-size:90%;">
 
 <ul>
-  <li>PhD, Laboratoire d'Astrophysique de Marseille (LAM), </li>
+  <li>PhD, Laboratoire d'Astrophysique de Marseille (LAM) </li>
   <li>MPhys Physics with Astrophysics, University of Exeter, 2020</li>
 
 </ul>
