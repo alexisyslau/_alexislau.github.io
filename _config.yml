@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-UK"
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-title                    : "Alexis Y.S. Lau"
+title                    : "Alexis Lau"
 title_separator          : "-"
 name                     : &name "Alexis Y.S. Lau"
 description              : &description 
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Alexis Lau"
   avatar           : "profile_pic.jpg"
-  bio              : "MPhys Physics with Astrophysics student who specialise in Direct Imaging of Exoplanets"
+  bio              : "PhD student who specialises in PSF reconstruction"
   location         : "UK, France, HK"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "alexis.lau@lam.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
