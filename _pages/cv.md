@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+<p style="font-size:80%;">This is a paragraph.</p>
 * MPhys Physics with Astrophysics, University of Exeter, 2020
 
 Research experience
