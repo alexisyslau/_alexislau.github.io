@@ -17,7 +17,6 @@ author_profile: true
 
 ### Optimisation of data-reduction from Adaptive-Optics assisted Astronomical Observations
 
-I have started my PhD project on PSF deconvolution for hyperspectral data and recosntruction. First, the idea is to retreive 
 I have started my PhD on optimising data reduction for AO assisted observations, which will involve PSF reconstructions and learning what parameters are important for us to do so. 
 
 ### Direct Imaging of Exoplanets
