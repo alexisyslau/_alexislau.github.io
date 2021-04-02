@@ -16,9 +16,11 @@ author_profile: true
 {% endfor %}
 
 ### Optimisation of data-reduction from Adaptive-Optics assisted Astronomical Observations
+
 I have started my PhD on optimising data reduction for AO assisted observations, which will involve PSF reconstructions and learning what parameters are important for us to do so. 
 
 ### Direct Imaging of Exoplanets
+
 I have been working on a large direct imaging survey with [Professor Sasha Hinkley](https://emps.exeter.ac.uk/physics-astronomy/staff/sh573), obtained by the W. M. Keck Observatory. My master project is based on a survey of more than 20,000 images obtained from W.M. Keck. All targets have infrared excess in 22 micron from WISE all-sky survey, main A&F type stars. 
 
 The aims of the project are: 
