@@ -21,9 +21,10 @@ I have started my PhD on optimising data reduction for AO assisted observations,
 
 ### Direct Imaging of Exoplanets
 
-I have been working on a large direct imaging survey with [Professor Sasha Hinkley](https://emps.exeter.ac.uk/physics-astronomy/staff/sh573), obtained by the W. M. Keck Observatory. My master project is based on a survey of more than 20,000 images obtained from W.M. Keck. All targets have infrared excess in 22 micron from WISE all-sky survey, main A&F type stars. 
+I have been working on a large direct imaging survey with [Professor Sasha Hinkley] <https://emps.exeter.ac.uk/physics-astronomy/staff/sh573>, obtained by the W. M. Keck Observatory. My master project is based on a survey of more than 20,000 images obtained from W.M. Keck. All targets have infrared excess in 22 micron from WISE all-sky survey, main A&F type stars. 
 
 The aims of the project are: 
+
 * Searching for exoplanets and disks 
 * Enhance the performance at the inner working angle
 * Better detection method for searching candidates 
