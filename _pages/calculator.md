@@ -1,8 +1,12 @@
-<!-- 
-    Known Bug: 
-    1. You need to input the distance first ... 
-    2. It doesnt handle the second input well (e.g showing decimal places and showing the first input of the value)
--->
+---
+permalink: /
+title: Astronomical unit calculator
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /calculator/
+---
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -65,5 +69,3 @@
   
   </body>
 </html>
-
-  
