@@ -1,0 +1,100 @@
+<!-- 
+    Known Bug: 
+    1. You need to input the distance first ... 
+    2. It doesnt handle the second input well (e.g showing decimal places and showing the first input of the value)
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- <link rel="stylesheet" type="text/css" href="../assets/css/cal_style.css">  -->
+  <!-- calculator <link rel="stylesheet" type="text/css" href="../assets/css/cal_style.css"> -->
+  
+  <title>Astronomical Unit Converter</title>
+  <body>
+  
+  <h2>Astronomical Unit Converter</h2>
+  <p>Converting AU to arcsecond with a given distance</p>
+  
+
+  <p>
+    <label>Arcsecond</label>
+    <input id="inputArcsecond" type="number" placeholder="arcsecond" value=0
+    oninput="AuPcConverter()" 
+    onchange="AuPcConverter()">
+  </p>
+
+  <p>
+    <label>Distance (pc)</label>
+    <input id="inputDistance" type="number" placeholder="distance" value=0
+    oninput="AuPcConverter()" 
+    onchange="AuPcConverter()">
+  </p>
+
+  <p>
+    <label>Astronomical Unit (au)</label>
+    <input id="inputAU" type="number" placeholder="au" value=0
+    oninput="AuPcConverter()" 
+    onchange="AuPcConverter()">
+    </p>
+
+
+  <script>
+  function AuPcConverter() {
+
+    var inputAU = document.getElementById("inputAU");
+    var inputDistance = document.getElementById("inputDistance");
+    var inputArcsecond = document.getElementById("inputArcsecond");
+
+    au_in_pc = 4.8481e-6;
+
+    arcsec = parseFloat(inputArcsecond.value);
+    au = parseFloat(inputAU.value);
+    distance = parseFloat(inputDistance.value);
+
+    if (distance !=0){
+        if (au !=0){
+            inputArcsecond.value = au / (distance*(22/7)/(180*3600*au_in_pc));
+        }
+        if (arcsec !=0){
+            inputAU.value = arcsec * distance*(22/7)/(180*3600*au_in_pc);
+        }
+        else {
+            inputArcsecond.value = 0; 
+            inputAU.value = 0;
+        }
+    }
+  }
+
+  0.1
+
+  </script>
+  
+  </body>
+</html>
+
+
+
+<!-- function temperatureConverter(source,valNum) {
+
+    AuPcConverter(this.id,this.value)
+    valNum = parseFloat(valNum);
+    var inputFahrenheit = document.getElementById("inputFahrenheit");
+    var inputCelsius = document.getElementById("inputCelsius");
+    var inputKelvin = document.getElementById("inputKelvin");
+    if (source=="inputFahrenheit") {
+      inputCelsius.value=((valNum-32)/1.8).toFixed(2);
+      inputKelvin.value=(((valNum-32)/1.8)+273.15).toFixed(2);
+    }
+    if (source=="inputCelsius") {
+      inputFahrenheit.value=((valNum*1.8)+32).toFixed(2);
+      inputKelvin.value=((valNum)+273.15).toFixed(2);
+    }
+    if (source=="inputKelvin") {
+      inputFahrenheit.value=(((valNum-273.15)*1.8)+32).toFixed(2);
+      inputCelsius.value=((valNum)-273.15).toFixed(2);
+    }
+  } -->
+  
