@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /calculator/
 title: Astronomical unit calculator
 excerpt: ""
@@ -7,4 +7,4 @@ redirect_from:
   - /calculator/
 ---
 
-{% include {{ filename | prepend:calculator.html}} %}
+{% include {{ filename | prepend:calculator.html}} %} -->
