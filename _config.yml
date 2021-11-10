@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Alexis Lau"
   avatar           : "profile_pic.jpeg"
-  bio              : "PhD student who specialises in PSF reconstruction"
+  bio              : "PhD student who specialises in PSF Estimation"
   location         : "UK, France, HK"
   employer         :
   pubmed           : 
