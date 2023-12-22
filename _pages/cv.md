@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="/files/alexisyslau_cv.pdf" width="800px" height="2100px" />
+<embed src="/files/alexis_cv.pdf" width="800px" height="2100px" />
 
 
 <!-- <embed src="http://lantaoyu.com/files/lantaoyu_cv.pdf" width="650" height="1800" type='application/pdf'> 
